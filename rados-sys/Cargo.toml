@@ -1,0 +1,5 @@
+[package]
+
+name = "rados-sys"
+version = "0.0.1"
+authors = ["Flavio Percoco <flaper87@gmail.com>"]
